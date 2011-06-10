@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extensions", "Extensions\Extensions.csproj", "{9A723223-FA42-4BDE-861F-C4746397F62D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extensions.Tests", "Extensions.Tests\Extensions.Tests.csproj", "{1F7243FB-C3FA-4D2F-BE25-9ADCD696CC6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F7243FB-C3FA-4D2F-BE25-9ADCD696CC6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F7243FB-C3FA-4D2F-BE25-9ADCD696CC6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F7243FB-C3FA-4D2F-BE25-9ADCD696CC6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F7243FB-C3FA-4D2F-BE25-9ADCD696CC6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A723223-FA42-4BDE-861F-C4746397F62D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A723223-FA42-4BDE-861F-C4746397F62D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A723223-FA42-4BDE-861F-C4746397F62D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A723223-FA42-4BDE-861F-C4746397F62D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Extensions\Extensions.csproj
+	EndGlobalSection
+EndGlobal
